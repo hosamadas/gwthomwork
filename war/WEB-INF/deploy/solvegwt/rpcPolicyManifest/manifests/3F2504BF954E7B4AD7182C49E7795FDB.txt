@@ -1,0 +1,2 @@
+serviceClass: sy.hosam.gwt.client.GreetingService
+path: 050614521C34B0AE2FE05ACC43C54CC1.gwt.rpc

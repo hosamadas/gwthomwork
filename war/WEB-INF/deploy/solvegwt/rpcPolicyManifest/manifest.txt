@@ -1,0 +1,3 @@
+# Module solvegwt
+# RPC service class, partial path of RPC policy file
+sy.hosam.gwt.client.GreetingService, 050614521C34B0AE2FE05ACC43C54CC1.gwt.rpc
